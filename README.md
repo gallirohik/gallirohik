@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gallirohik&label=Profile%20views&color=0e75b6&style=flat" alt="gallirohik" /> </p>
 
-- 🌱 I’m currently learning **Frontend Architecture,Javascript and Javascript Frameworks**
-
-- 💬 Ask me about **Javascript,React and Svelte**
+- As a professional Frontend Engineer, I specialize in developing innovative products across diverse industries including CloudKitchen, Food tech, Fintech, and Media. With a strong foundation in Javascript, React, and Next.js, I consistently leverage cutting-edge technologies to deliver exceptional solutions. Currently, I am focused on projects involving AI and Web3 technologies,
 
 - 📫 How to reach me **gallirohik@gmail.com**
 
